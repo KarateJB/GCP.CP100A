@@ -93,10 +93,30 @@ In a company,
 - Support on 3rd packages
 
 ### GCD
-
 1. NoSQL
 2. AES encrypt on data
 3. Auto-scale
 
+
+## Network
+
+### Google Cloud Interconnect
+- Carrier interconnect
+- Direct Peering
+- CDN interconnect
+
+### Google Cloud DNS
+- Highly available and scalable
+- DDOS protection
+
+### Load Balance
+- HTTP(S) load balancing
+- Quick response with nearest location
+
+
+## Google Stackdriver
+- Monitor/Log/Dashboard
+- Open source engine
+- 3rd package support
 
 
