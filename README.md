@@ -72,6 +72,9 @@ In a company,
 
 
 ## Google App Engine and Google Cloud Datastore
+
+### GAE
+
 1. Deploy/Monitor/Scale
 2. Example : [Snapchat](https://www.snapchat.com/)
 3. Free daily quota, can set limited price and then close service in a day
@@ -89,6 +92,11 @@ In a company,
 - Can access App Engine Service
 - Support on 3rd packages
 
+### GCD
+
+1. NoSQL
+2. AES encrypt on data
+3. Auto-scale
 
 
 
