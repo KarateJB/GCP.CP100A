@@ -29,6 +29,29 @@
 6. Translate API
 7. more...
 
+## Project
+1. Project name/number/id
+
+### Permissions
+
+> Who/can do what/on what resource
+
+* Owner
+* Editor: Deploy application/Modify code/Config
+* Viewer: Read-only
+* Billing admin: Manage billing
+
+The permission can be assigned to google account, *google group*, service account.
+
+> **Google group**
+> Create group with members
+
+In a company,
+1. IAM Resource Hierarchy
+2. XPN: Cross Project Network
+3. Organization Node (Beta)
+
+
 
 
 
