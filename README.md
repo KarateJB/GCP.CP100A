@@ -5,6 +5,7 @@
 2. Computing, big data, machine learning
 3. Sub-hour billing (by 10 minutes), friendly pricing
 4. Custom machine types, custom detail CPU, RAM
+5. laaS for computing and PaaS for app engine
 
 ## Infra
 1. Data Centers
@@ -18,6 +19,16 @@
 
 ## The future
 1. Colocation -> VM datacenters -> Global elastic cloud
+
+## Whaz inside
+1. Dataproc contains Haddoop, Spark
+2. Cloud SQL, including of MySQL, Postgre
+3. Natural language
+4. Vision API
+5. Speech API
+6. Translate API
+7. more...
+
 
 
 
