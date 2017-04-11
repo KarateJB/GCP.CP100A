@@ -34,6 +34,8 @@
 
 ### Permissions
 
+Use `IAM` function.
+
 > Who/can do what/on what resource
 
 * Owner
@@ -46,11 +48,45 @@ The permission can be assigned to google account, *google group*, service accoun
 > **Google group**
 > Create group with members
 
+> **Service account**
+> DO NOT remove or modify the DEFAULT service account in project.
+
 In a company,
 1. IAM Resource Hierarchy
 2. XPN: Cross Project Network
 3. Organization Node (Beta)
 
+
+### GUI
+
+#### Cloud shell: 
+1. Free linux to use, but it will clear what you installed after rebbot
+2. Code editor
+3. gcloud --help
+
+
+## Google Cloud SDK
+1. Find it in Docker hub
+2. Use restful api with token
+3. OAuth playground
+
+
+## Google App Engine and Google Cloud Datastore
+1. Deploy/Monitor/Scale
+2. Example : [Snapchat](https://www.snapchat.com/)
+3. Environment
+
+**Standard**
+- Java/Python/Go/PHP
+- Auto-scale
+- SDKs for sandbox, but no writing to local file system
+- Limit on 3rd packages
+
+**Flexible**
+- 
+
+
+4. Free daily quota, can set limited price and then close service in a day
 
 
 
