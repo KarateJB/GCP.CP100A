@@ -119,4 +119,22 @@ In a company,
 - Open source engine
 - 3rd package support
 
+## Google Cloud Functions
+- Micro-service
+
+
+## Google Cloud Storage (GCS)
+- BLOB(Binary large object storage)
+- Could be accessed by 3rd party tools: Cloud Storage Fuse
+
+1. Multi-regional
+2. Regional
+3. Nearline
+4. Coldline
+
+
+
+
+
+
 
