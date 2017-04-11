@@ -74,7 +74,8 @@ In a company,
 ## Google App Engine and Google Cloud Datastore
 1. Deploy/Monitor/Scale
 2. Example : [Snapchat](https://www.snapchat.com/)
-3. Environment
+3. Free daily quota, can set limited price and then close service in a day
+4. Environment
 
 **Standard**
 - Java/Python/Go/PHP
@@ -82,18 +83,11 @@ In a company,
 - SDKs for sandbox, but no writing to local file system
 - Limit on 3rd packages
 
-**Flexible**
-- 
-
-
-4. Free daily quota, can set limited price and then close service in a day
-
-
-
-
-
-
-
+**Flexible**(Beta)
+- Standard runtimes : Java/Python/Go/Node.js, with no sandbox contraints
+- Local development relies on Docker
+- Can access App Engine Service
+- Support on 3rd packages
 
 
 
